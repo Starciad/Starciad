@@ -19,7 +19,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starciad&layout=compact&theme=darcula)
 
 ## Repositórios Fixados:
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Starciad/Lenny-fish-Game-Source-Code">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Starciad&repo=Lenny-fish-Game-Source-Code&theme=darcula" />
 </a>
 
