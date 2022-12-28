@@ -80,15 +80,7 @@
 	</a>
 </div>
 
-<!-- SEPARATOR -->
-
-<br/><br/>
-<div align="center">
-	<img width="90%" src="assets/images/separators/plant-separator.webp" />
-</div>
-<br/><br/>
-
-<!-- END_SEPARATOR -->
+___
 
 <h3><code>4.</code> CARREIRA</h3>
 <div align="justify">
