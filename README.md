@@ -93,15 +93,7 @@ ___
 	</a>
 </div>
 
-<!-- SEPARATOR -->
-
-<br/><br/>
-<div align="center">
-	<img width="90%" src="assets/images/separators/plant-separator.webp" />
-</div>
-<br/><br/>
-
-<!-- END_SEPARATOR -->
+___
 
 <h3><code>5.</code> FORMAÇÕES</h3>
 <div align="justify">
@@ -114,15 +106,7 @@ ___
 	</a>
 </div>
 
-<!-- SEPARATOR -->
-
-<br/><br/>
-<div align="center">
-	<img width="90%" src="assets/images/separators/plant-separator.webp" />
-</div>
-<br/><br/>
-
-<!-- END_SEPARATOR -->
+___
 
 <h3><code>6.</code> CONHECIMENTOS</h3>
 <div align="justify">
@@ -135,15 +119,7 @@ ___
 	</a>
 </div>
 
-<!-- SEPARATOR -->
-
-<br/><br/>
-<div align="center">
-	<img width="90%" src="assets/images/separators/plant-separator.webp" />
-</div>
-<br/><br/>
-
-<!-- END_SEPARATOR -->
+___
 
 <h3><code>7.</code> PROJETOS</h3>
 <div align="justify">
@@ -156,15 +132,7 @@ ___
 	</a>
 </div>
 
-<!-- SEPARATOR -->
-
-<br/><br/>
-<div align="center">
-	<img width="90%" src="assets/images/separators/plant-separator.webp" />
-</div>
-<br/><br/>
-
-<!-- END_SEPARATOR -->
+___
 
 <h3><code>8.</code> CONQUISTAS</h3>
 <div align="justify">
