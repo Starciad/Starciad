@@ -26,7 +26,7 @@
 
 <br/>
 
-<img align="left" width="42px" src="assets/images/icons/numbers/number-golden-1.webp"/>
+<img align="left" width="52px" src="assets/images/icons/numbers/number-golden-1.webp"/>
 <h2>INTRODUÇÃO</h2>
 <div align="justify">
 	<p>Me chamo Davi Lucas (Mais conhecido pelo apelido Starciad) e sou um grande Aspirante da programação!</p>
@@ -42,7 +42,7 @@
 
 <!-- END_SEPARATOR -->
 
-<img align="left" width="42px" src="assets/images/icons/numbers/number-golden-2.webp"/>
+<img align="left" width="52px" src="assets/images/icons/numbers/number-golden-2.webp"/>
 <h2>PERFIL</h2>
 <div align="justify">
 	<p>No meu perfil você irá encontrar todos os projetos que faço no tempo livro, seja projetos de teste, hobby, ou alguma tarefa de trabalho/escola. Todos eles possuem suas próprias peculiaridades e podem ser interessantes caso você queira ver como eu trabalho e programo!</p>
@@ -70,7 +70,7 @@
 
 <!-- END_SEPARATOR -->
 
-<img align="left" width="42px" src="assets/images/icons/numbers/number-golden-3.webp"/>
+<img align="left" width="52px" src="assets/images/icons/numbers/number-golden-3.webp"/>
 <h2>HISTÓRIA</h2>
 <div align="justify">
 	<p>Para mais informações sobre minha história de vida, clique no botão abaixo para ser redirecionado para a página HÍSTORIA.</p> 
@@ -93,7 +93,7 @@
 
 <!-- END_SEPARATOR -->
 
-<img align="left" width="42px" src="assets/images/icons/numbers/number-golden-4.webp"/>
+<img align="left" width="52px" src="assets/images/icons/numbers/number-golden-4.webp"/>
 <h2>CARREIRA</h2>
 <div align="justify">
 	<p>Para informações atualizadas e detalhadas sobre minha carreira na área de tecnologia com informações atuais, você pode clicar no botão abaixo para ser redirecionado para a página de carreira.</p>
@@ -116,7 +116,7 @@
 
 <!-- END_SEPARATOR -->
 
-<img align="left" width="42px" src="assets/images/icons/numbers/number-golden-5.webp"/>
+<img align="left" width="52px" src="assets/images/icons/numbers/number-golden-5.webp"/>
 <h2>FORMAÇÕES</h2>
 <div align="justify">
 	<p>Caso você queira ver informações sobre minha formação e percurso na área acadêmica, pode clicar no botão abaixo para ser redirecionado a página de formação acadêmica.</p>
@@ -139,7 +139,7 @@
 
 <!-- END_SEPARATOR -->
 
-<img align="left" width="42px" src="assets/images/icons/numbers/number-golden-6.webp"/>
+<img align="left" width="52px" src="assets/images/icons/numbers/number-golden-6.webp"/>
 <h2>CONHECIMENTOS</h2>
 <div align="justify">
 	<p>Caso tenha interesse em saber e ter uma ideia das tecnologias que eu tenho conhecimento com descrições detalhadas sobre, clique no botão abaixo para ser redirecionado para a página de CONHECIMENTOS.</p>
@@ -162,7 +162,7 @@
 
 <!-- END_SEPARATOR -->
 
-<img align="left" width="42px" src="assets/images/icons/numbers/number-golden-7.webp"/>
+<img align="left" width="52px" src="assets/images/icons/numbers/number-golden-7.webp"/>
 <h2>PROJETOS</h2>
 <div align="justify">
 	<p>Gostaria de ver os projetos nos quais eu estive trabalhando? Clique no botão abaixo para ser redirecionado para a página de PROJETOS.</p>
@@ -183,7 +183,7 @@
 
 <!-- END_SEPARATOR -->
 
-<img align="left" width="42px" src="assets/images/icons/numbers/number-golden-8.webp"/>
+<img align="left" width="52px" src="assets/images/icons/numbers/number-golden-8.webp"/>
 <h2>CONQUISTAS</h2>
 <div align="justify">
 	<p>Gostaria de ver minhas conquistas e façanhas pessoais de um jeito mais animado e divertido? Clique no botão abaixo para ser redirecionado para a página de CONQUISTAS</p>
