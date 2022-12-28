@@ -76,7 +76,7 @@
 
 <div align="center">
 	<a href="">
-		<image width="30%" src="assets/images/buttons/history-button.webp" />
+		<image width="20%" src="assets/images/buttons/history-button.webp" />
 	</a>
 </div>
 
@@ -97,7 +97,7 @@
 
 <div align="center">
 	<a href="">
-		<image width="30%" src="assets/images/buttons/career-button.webp" />
+		<image width="20%" src="assets/images/buttons/career-button.webp" />
 	</a>
 </div>
 
@@ -118,7 +118,7 @@
 
 <div align="center">
 	<a href="">
-		<image width="30%" src="assets/images/buttons/technical-training-button.webp" />
+		<image width="20%" src="assets/images/buttons/technical-training-button.webp" />
 	</a>
 </div>
 
@@ -139,7 +139,7 @@
 
 <div align="center">
 	<a href="">
-		<image width="30%" src="assets/images/buttons/knowledge-button.webp" />
+		<image width="20%" src="assets/images/buttons/knowledge-button.webp" />
 	</a>
 </div>
 
@@ -160,7 +160,7 @@
 
 <div align="center">
 	<a href="">
-		<image width="30%" src="assets/images/buttons/projects-button.webp" />
+		<image width="20%" src="assets/images/buttons/projects-button.webp" />
 	</a>
 </div>
 
@@ -181,7 +181,7 @@
 
 <div align="center">
 	<a href="">
-		<image width="30%" src="assets/images/buttons/achievements-button.webp" />
+		<image width="20%" src="assets/images/buttons/achievements-button.webp" />
 	</a>
 </div>
 
