@@ -52,9 +52,11 @@
 	<h3>📕 ◈ DETALHES EXTRAS ◈ 📕</h3>
 </div>
 
-<p>➥ Sinta-se livre para explorar e brincar com meus repositórios.</p>
-<p>➥ Caso tenha interesse e esteja listado no <b>README</b> principal do repositório, você pode ajudar colaborando com conteúdos extras para o projeto!</p>
-<p>➥ Lembre-se, a maioria dos projetos encontrados neste perfil são experimentações de ideias e aprendizados, caso tenha interesse, sinta-se livre para estuda-los e fazer recomendações!/p>
+<div align="justify">
+	<p>➥ Sinta-se livre para explorar e brincar com meus repositórios.</p>
+	<p>➥ Caso tenha interesse e esteja listado no <b>README</b> principal do repositório, você pode ajudar colaborando com conteúdos extras para o projeto!</p>
+	<p>➥ Lembre-se, a maioria dos projetos encontrados neste perfil são experimentações de ideias e aprendizados, caso tenha interesse, sinta-se livre para estuda-los e fazer recomendações!/p>
+</div>
 
 <br/>
 
