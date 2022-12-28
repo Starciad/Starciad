@@ -24,7 +24,7 @@
 	<h2>🛎️ ◈ Seja muitíssimo Bem-Vindo ◈ 🛎️</h2>
 </div>
 
-<img align="left" width="10%" src="assets/images/icons/numbers/number-golden-1.webp"/>
+<img align="left" width="5%" src="assets/images/icons/numbers/number-golden-1.webp"/>
 <h2>INTRODUÇÃO</h2>
 <div align="justify">
 	<p>Me chamo Davi Lucas (Mais conhecido pelo apelido Starciad) e sou um grande Aspirante da programação!</p>
