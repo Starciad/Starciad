@@ -29,9 +29,7 @@
 <img align="left" width="52px" src="assets/images/icons/numbers/number-golden-1.webp"/>
 <h2>INTRODUÇÃO</h2>
 <div align="justify">
-	<p>Me chamo Davi Lucas (Mais conhecido pelo apelido Starciad) e sou um grande Aspirante da programação!</p>
-	<p>Sempre fui um entusiasta de assuntos que envolvessem computação e tecnologia, seja programação, TI, Softwares e qualquer outro assunto deste tipo. Até o momento levo a programação como apenas um hobby, porém trilho meu caminho aos poucos nesse grande mundo de tecnologia!</p>
-</div>
+	<p>Meu nome é Davi Fernandes (mais conhecido pelo apelido "Starciad"). Sou um apaixonado pela programação e pelos assuntos relacionados à tecnologia, como TI e softwares. Atualmente, trato a programação como um hobby, mas estou trilhando meu caminho nesse vasto mundo da tecnologia. Se você quiser saber mais sobre mim, confira as próximas seções listadas abaixo. Elas contêm informações detalhadas sobre mim e são divididas em títulos curtos e descritivos.</div>
 
 <!-- SEPARATOR -->
 <br/><br/>
@@ -45,20 +43,19 @@
 <img align="left" width="52px" src="assets/images/icons/numbers/number-golden-2.webp"/>
 <h2>PERFIL</h2>
 <div align="justify">
-	<p>No meu perfil você irá encontrar todos os projetos que faço no tempo livro, seja projetos de teste, hobby, ou alguma tarefa de trabalho/escola. Todos eles possuem suas próprias peculiaridades e podem ser interessantes caso você queira ver como eu trabalho e programo!</p>
+	<p>No meu perfil, você pode encontrar todos os projetos que eu faço em meu tempo livre. Isso inclui meus projetos de teste, hobbies e algumas tarefas escolares e de trabalho. Cada um deles tem suas próprias características únicas e, em cada repositório, você encontrará informações detalhadas sobre a finalidade e função de cada projeto. Eles também podem ser úteis para dar uma ideia de como eu penso, trabalho e organizo meus projetos. Sinta-se à vontade para explorá-los ao máximo!</p>
 </div>
 
 <br/>
 
 <div align="center">
-	<h3>📕 ◈ ALGUNS DETALHES ◈ 📕</h3>
+	<h3>📕 ◈ DETALHES EXTRAS ◈ 📕</h3>
 </div>
-<p>➥ Sinta-se livre para explorar os meus repositórios.</p>
-<p>➥ Caso tenha interesse, você pode me ajudar colaborando com algum de meus repositórios!</p>
 
-> ⚠  》 Caso a ajuda esteja permitida no <b>Readme</b> principal do repositório.
+<p>➥ Sinta-se livre para explorar e brincar com meus repositórios.</p>
+<p>➥ Caso tenha interesse e esteja listado no <b>README</b> principal do repositório, você pode ajudar colaborando com conteúdos extras para o projeto!</p>
+<p>➥ Lembre-se, a maioria dos projetos encontrados neste perfil são experimentações de ideias e aprendizados, caso tenha interesse, sinta-se livre para estuda-los e fazer recomendações!/p>
 
-<p>➥ Quase todos os programas terão pequenas ideias e serão apenas por aprendizagem pessoal.</p>
 <br/>
 
 <!-- SEPARATOR -->
@@ -73,7 +70,7 @@
 <img align="left" width="52px" src="assets/images/icons/numbers/number-golden-3.webp"/>
 <h2>HISTÓRIA</h2>
 <div align="justify">
-	<p>Para mais informações sobre minha história de vida, clique no botão abaixo para ser redirecionado para a página HÍSTORIA.</p> 
+	<p>Possui interesse em ler um breve resumo do meu percurso na programação? Para mais informações sobre minha história de vida, clique no botão abaixo para ser redirecionado para a página <b>HÍSTORIA</b>.</p> 
 </div>
 
 <br/>
@@ -96,7 +93,7 @@
 <img align="left" width="52px" src="assets/images/icons/numbers/number-golden-4.webp"/>
 <h2>CARREIRA</h2>
 <div align="justify">
-	<p>Para informações atualizadas e detalhadas sobre minha carreira na área de tecnologia com informações atuais, você pode clicar no botão abaixo para ser redirecionado para a página de carreira.</p>
+	<p>Gostaria de ler informações detalhadas e atualizadas sobre minha carreira profissional na área de tecnologia? Clique no botão abaixo para ser redirecionado para a página de <b>CARREIRA</b> e obter mais informações.</p>
 </div>
 
 <br/>
@@ -119,7 +116,7 @@
 <img align="left" width="52px" src="assets/images/icons/numbers/number-golden-5.webp"/>
 <h2>FORMAÇÕES</h2>
 <div align="justify">
-	<p>Caso você queira ver informações sobre minha formação e percurso na área acadêmica, pode clicar no botão abaixo para ser redirecionado a página de formação acadêmica.</p>
+	<p>Gostaria de ver informações sobre minhas formações acadêmicas? Clique no botão abaixo para ser redirecionado para a página de <b>FORMAÇÕES ACADÊMICAS</b>.</p>
 </div>
 
 <br/>
@@ -142,7 +139,7 @@
 <img align="left" width="52px" src="assets/images/icons/numbers/number-golden-6.webp"/>
 <h2>CONHECIMENTOS</h2>
 <div align="justify">
-	<p>Caso tenha interesse em saber e ter uma ideia das tecnologias que eu tenho conhecimento com descrições detalhadas sobre, clique no botão abaixo para ser redirecionado para a página de CONHECIMENTOS.</p>
+	<p>Gostaria de ver informações atualizadas sobre todas as tecnologias de que tenho conhecimento? Clique no botão abaixo para ser redirecionado para a página de <b>CONHECIMENTOS</b>.<p>
 </div>
 
 <br/>
@@ -165,7 +162,7 @@
 <img align="left" width="52px" src="assets/images/icons/numbers/number-golden-7.webp"/>
 <h2>PROJETOS</h2>
 <div align="justify">
-	<p>Gostaria de ver os projetos nos quais eu estive trabalhando? Clique no botão abaixo para ser redirecionado para a página de PROJETOS.</p>
+	<p>Gostaria de ver informações detalhadas de todos os projetos em que trabalhei? Clique no botão abaixo para ser redirecionado para a página de <b>PROJETOS</b>.</p>
 </div>
 
 <div align="center">
@@ -186,7 +183,7 @@
 <img align="left" width="52px" src="assets/images/icons/numbers/number-golden-8.webp"/>
 <h2>CONQUISTAS</h2>
 <div align="justify">
-	<p>Gostaria de ver minhas conquistas e façanhas pessoais de um jeito mais animado e divertido? Clique no botão abaixo para ser redirecionado para a página de CONQUISTAS</p>
+	<p>Gostaria de ver de forma divertida e interessante todas as minhas realizações e conquistas pessoais? Clique no botão abaixo para ser redirecionado para a página de <b>CONQUISTAS</b>.</p>
 </div>
 
 <br/>
@@ -206,4 +203,5 @@
 
 <!-- END_SEPARATOR -->
 
-<h3 align="center">🌞 E é isso! Obrigado por ler até aqui! 🌞</h3>
+<h2 align="center">🌞 E é isso! Obrigado por ler até aqui! 🌞</h2>
+<p align="justify"> Como seres humanos, continuamos a escrever nossa grande história, cada um de nós trilhando seu próprio caminho e amadurecendo através de uma infinidade de experiências novas. É por meio destas experiências que construímos nossa própria biblioteca de conhecimento e sabedoria, tornando-nos o que somos hoje.</p>
