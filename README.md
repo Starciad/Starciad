@@ -1,6 +1,6 @@
 <!-- INTRO -->
 <div align="center">
-	<img src="assets/images/banners/starciad-banner.png" width="50%"/>
+	<img src="assets/images/banners/starciad-banner.png" width="90%"/>
 </div>
 
 <br/>
@@ -14,7 +14,7 @@
 
 <br/>
 <div align="center">
-	<img width="50%" src="assets/images/separators/plant-separator.webp" />
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
 </div>
 <br/><br/>
 
@@ -35,7 +35,7 @@
 
 <br/><br/>
 <div align="center">
-	<img width="50%" src="assets/images/separators/plant-separator.webp" />
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
 </div>
 <br/><br/>
 
@@ -63,7 +63,7 @@
 
 <br/><br/>
 <div align="center">
-	<img width="50%" src="assets/images/separators/plant-separator.webp" />
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
 </div>
 <br/><br/>
 
@@ -84,7 +84,7 @@
 
 <br/><br/>
 <div align="center">
-	<img width="50%" src="assets/images/separators/plant-separator.webp" />
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
 </div>
 <br/><br/>
 
@@ -105,7 +105,7 @@
 
 <br/><br/>
 <div align="center">
-	<img width="50%" src="assets/images/separators/plant-separator.webp" />
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
 </div>
 <br/><br/>
 
@@ -126,7 +126,7 @@
 
 <br/><br/>
 <div align="center">
-	<img width="50%" src="assets/images/separators/plant-separator.webp" />
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
 </div>
 <br/><br/>
 
@@ -147,7 +147,7 @@
 
 <br/><br/>
 <div align="center">
-	<img width="50%" src="assets/images/separators/plant-separator.webp" />
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
 </div>
 <br/><br/>
 
@@ -168,7 +168,7 @@
 
 <br/><br/>
 <div align="center">
-	<img width="50%" src="assets/images/separators/plant-separator.webp" />
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
 </div>
 <br/><br/>
 
@@ -189,7 +189,7 @@
 
 <br/><br/>
 <div align="center">
-	<img width="50%" src="assets/images/separators/plant-separator.webp" />
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
 </div>
 <br/><br/>
 
