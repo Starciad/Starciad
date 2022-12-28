@@ -10,6 +10,16 @@
 
 <br/>
 
+<!-- SEPARATOR -->
+
+<br/>
+<div align="center">
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
+</div>
+<br/><br/>
+
+<!-- END_SEPARATOR -->
+
 <!-- CODE -->
 <div align="center">
 	<h2>🛎️ ◈ Seja muitíssimo Bem-Vindo ◈ 🛎️</h2>
@@ -21,7 +31,15 @@
 	<p>Sempre fui um entusiasta de assuntos que envolvessem computação e tecnologia, seja programação, TI, Softwares e qualquer outro assunto deste tipo. Até o momento levo a programação como apenas um hobby, porém trilho meu caminho aos poucos nesse grande mundo de tecnologia!</p>
 </div>
 
-___
+<!-- SEPARATOR -->
+
+<br/><br/>
+<div align="center">
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
+</div>
+<br/><br/>
+
+<!-- END_SEPARATOR -->
 
 <h3><code>2.</code> PERFIL</h3>
 <div align="justify">
@@ -40,7 +58,16 @@ ___
 <p>➥ Quase todos os programas terão pequenas ideias e serão apenas por aprendizagem pessoal.</p>
 <br/>
 
-___
+
+<!-- SEPARATOR -->
+
+<br/><br/>
+<div align="center">
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
+</div>
+<br/><br/>
+
+<!-- END_SEPARATOR -->
 
 <h3><code>3.</code> HISTÓRIA</h3>
 <div align="justify">
@@ -53,7 +80,15 @@ ___
 	</a>
 </div>
 
-___
+<!-- SEPARATOR -->
+
+<br/><br/>
+<div align="center">
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
+</div>
+<br/><br/>
+
+<!-- END_SEPARATOR -->
 
 <h3><code>4.</code> CARREIRA</h3>
 <div align="justify">
@@ -66,7 +101,15 @@ ___
 	</a>
 </div>
 
-___
+<!-- SEPARATOR -->
+
+<br/><br/>
+<div align="center">
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
+</div>
+<br/><br/>
+
+<!-- END_SEPARATOR -->
 
 <h3><code>5.</code> FORMAÇÕES</h3>
 <div align="justify">
@@ -79,7 +122,15 @@ ___
 	</a>
 </div>
 
-___
+<!-- SEPARATOR -->
+
+<br/><br/>
+<div align="center">
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
+</div>
+<br/><br/>
+
+<!-- END_SEPARATOR -->
 
 <h3><code>6.</code> CONHECIMENTOS</h3>
 <div align="justify">
@@ -92,7 +143,15 @@ ___
 	</a>
 </div>
 
-___
+<!-- SEPARATOR -->
+
+<br/><br/>
+<div align="center">
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
+</div>
+<br/><br/>
+
+<!-- END_SEPARATOR -->
 
 <h3><code>7.</code> PROJETOS</h3>
 <div align="justify">
@@ -105,7 +164,15 @@ ___
 	</a>
 </div>
 
-___
+<!-- SEPARATOR -->
+
+<br/><br/>
+<div align="center">
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
+</div>
+<br/><br/>
+
+<!-- END_SEPARATOR -->
 
 <h3><code>8.</code> CONQUISTAS</h3>
 <div align="justify">
@@ -118,6 +185,14 @@ ___
 	</a>
 </div>
 
-___
+<!-- SEPARATOR -->
+
+<br/><br/>
+<div align="center">
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
+</div>
+<br/><br/>
+
+<!-- END_SEPARATOR -->
 
 <h3 align="center">🌞 E é isso! Obrigado por ler até aqui! 🌞</h3>
