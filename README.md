@@ -1,6 +1,11 @@
 <!-- STYLES -->
-<link rel="stylesheet" href="styles/global_style.css"/>
-<link rel="stylesheet" href="styles/index/index_button_style.css"/>
+<style>
+.text {
+    text-align: justify;
+    text-indent: 50px;
+    line-height: 1.5;
+}
+</style>
 
 <!-- INTRO -->
 <div align="center">
