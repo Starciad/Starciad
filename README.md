@@ -79,7 +79,7 @@
 
 <div align="center">
 	<a href="">
-		<image width="30%" src="assets/images/buttons/history-button.webp" />
+		<image width="30%" src="assets/images/buttons/pages/history-button.webp" />
 	</a>
 </div>
 
@@ -102,7 +102,7 @@
 
 <div align="center">
 	<a href="">
-		<image width="30%" src="assets/images/buttons/career-button.webp" />
+		<image width="30%" src="assets/images/buttons/pages/career-button.webp" />
 	</a>
 </div>
 
@@ -125,7 +125,7 @@
 
 <div align="center">
 	<a href="">
-		<image width="30%" src="assets/images/buttons/technical-training-button.webp" />
+		<image width="30%" src="assets/images/buttons/pages/technical-training-button.webp" />
 	</a>
 </div>
 
@@ -148,7 +148,7 @@
 
 <div align="center">
 	<a href="">
-		<image width="30%" src="assets/images/buttons/knowledge-button.webp" />
+		<image width="30%" src="assets/images/buttons/pages/knowledge-button.webp" />
 	</a>
 </div>
 
@@ -169,7 +169,7 @@
 
 <div align="center">
 	<a href="">
-		<image width="30%" src="assets/images/buttons/projects-button.webp" />
+		<image width="30%" src="assets/images/buttons/pages/projects-button.webp" />
 	</a>
 </div>
 
@@ -192,7 +192,45 @@
 
 <div align="center">
 	<a href="">
-		<image width="30%" src="assets/images/buttons/achievements-button.webp" />
+		<image width="30%" src="assets/images/buttons/pages/achievements-button.webp" />
+	</a>
+</div>
+
+<!-- SEPARATOR -->
+<br/><br/>
+<div align="center">
+	<img width="90%" src="assets/images/separators/plant-separator.webp" />
+</div>
+<br/><br/>
+
+<!-- END_SEPARATOR -->
+
+<img align="left" width="52px" src="assets/images/icons/numbers/number-golden-8.webp"/>
+<h2>REDES SOCIAIS</h2>
+<div align="justify">
+	<p>Veja também minhas outras <b>Redes Sociais</b>!</p>
+</div>
+
+<br/>
+
+<div align="center">
+	<a href="https://twitter.com/starciad">
+		<image width="30%" src="assets/images/buttons/social-medias/twitter-button.webp" />
+	</a>
+	<a href="https://www.reddit.com/user/Starciad">
+		<image width="30%" src="assets/images/buttons/social-medias/reddit-button.webp" />
+	</a>
+	<a href="https://www.youtube.com/@starciad">
+		<image width="30%" src="assets/images/buttons/social-medias/youtube-button.webp" />
+	</a>
+	<a href="https://starciad.itch.io">
+		<image width="30%" src="assets/images/buttons/social-medias/itch-button.webp" />
+	</a>
+	<a href="https://gamejolt.com/@Starciad">
+		<image width="30%" src="assets/images/buttons/social-medias/game-jolt-button.webp" />
+	</a>
+	<a href="https://discord.gg/pdjuAPHGTh">
+		<image width="30%" src="assets/images/buttons/social-medias/discord-button.webp" />
 	</a>
 </div>
 
