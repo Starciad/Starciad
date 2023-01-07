@@ -214,22 +214,22 @@
 <br/>
 
 <div align="center">
-	<a href="https://twitter.com/starciad">
+	<a target="_blank" href="https://twitter.com/starciad">
 		<image width="30%" src="assets/images/buttons/social-medias/twitter-button.webp" />
 	</a>
-	<a href="https://www.reddit.com/user/Starciad">
+	<a target="_blank" href="https://www.reddit.com/user/Starciad">
 		<image width="30%" src="assets/images/buttons/social-medias/reddit-button.webp" />
 	</a>
-	<a href="https://www.youtube.com/@starciad">
+	<a target="_blank" href="https://www.youtube.com/@starciad">
 		<image width="30%" src="assets/images/buttons/social-medias/youtube-button.webp" />
 	</a>
-	<a href="https://starciad.itch.io">
+	<a target="_blank" href="https://starciad.itch.io">
 		<image width="30%" src="assets/images/buttons/social-medias/itch-button.webp" />
 	</a>
-	<a href="https://gamejolt.com/@Starciad">
+	<a target="_blank" href="https://gamejolt.com/@Starciad">
 		<image width="30%" src="assets/images/buttons/social-medias/game-jolt-button.webp" />
 	</a>
-	<a href="https://discord.gg/pdjuAPHGTh">
+	<a target="_blank" href="https://discord.gg/pdjuAPHGTh">
 		<image width="30%" src="assets/images/buttons/social-medias/discord-button.webp" />
 	</a>
 </div>
