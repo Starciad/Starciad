@@ -1,3 +1,6 @@
+
+<!-- SEPARAÇÃO --->
+
 <div align="center">
 	<img width="90%" src="content/assets/images/separators/plant-separator.webp" />
 </div>
@@ -54,7 +57,11 @@
 <!-- CODE -->
 <div align="center">
 	<h1>INTRODUÇÃO</h1>
-	<p>Seja muitíssimo Bem-Vindo(a)!</p>
+	<p>Seja muitíssimo Bem-Vindo(a) ao meu perfil!</p>
+
+![Starciad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starciad&show_icons=true&theme=dracula)
+
+![Starciad's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starciad&theme=dracula&layout=compact&langs_count=10)
 </div>
 
 <br/>
