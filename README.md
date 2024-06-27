@@ -12,12 +12,6 @@
 </div>
 
 <div align="center">
-	<a target="_blank" href="https://twitter.com/starciad">
-		<image width="20%" src="content/assets/images/buttons/social-medias/twitter-button.webp" />
-	</a>
-	<a target="_blank" href="https://www.reddit.com/user/Starciad">
-		<image width="20%" src="content/assets/images/buttons/social-medias/reddit-button.webp" />
-	</a>
 	<a target="_blank" href="https://www.youtube.com/@starciad">
 		<image width="20%" src="content/assets/images/buttons/social-medias/youtube-button.webp" />
 	</a>
@@ -27,9 +21,6 @@
 	<a target="_blank" href="https://gamejolt.com/@Starciad">
 		<image width="20%" src="content/assets/images/buttons/social-medias/game-jolt-button.webp" />
 	</a>
-	<a target="_blank" href="https://discord.gg/fpPYnZB6fG">
-		<image width="20%" src="content/assets/images/buttons/social-medias/discord-button.webp" />
-	</a>
 	<a target="_blank" href="https://stackoverflow.com/users/18094188/starciad">
 		<image width="20%" src="content/assets/images/buttons/social-medias/stackoverflow-button.webp" />
 	</a>
@@ -38,9 +29,6 @@
 	</a>
 	<a target="_blank" href="https://community.monogame.net/u/starciad/summary">
 		<image width="20%" src="content/assets/images/buttons/social-medias/monogame-button.webp" />
-	</a>
-	<a target="_blank" href="https://www.instagram.com/starciad/">
-		<image width="20%" src="content/assets/images/buttons/social-medias/instagram-button.webp" />
 	</a>
 </div>
 <br/>
