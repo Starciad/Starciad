@@ -1,6 +1,4 @@
-
 <!-- SEPARAÇÃO --->
-
 <div align="center">
 	<img width="90%" src="content/assets/images/separators/plant-separator.webp" />
 </div>
@@ -82,22 +80,18 @@
 	<img width="90%" src="content/assets/images/separators/plant-separator.webp" />
 </div>
 <br/><br/>
-
 <!-- END_SEPARATOR -->
 
 <img align="left" width="52px" src="content/assets/images/icons/numbers/number-golden-3.webp"/>
-<h2>HISTÓRIA</h2>
+<h2>WEBSITE</h2>
 <div align="justify">
-	<p>Possui interesse em ler um breve resumo do meu percurso na área? Para mais informações sobre minha história, clique no botão abaixo para ser redirecionado para a página <b>HÍSTORIA</b>.</p> 
+	<p>Caso tenha interesse de ver mais informações relevantes sobre minha pessoa, acesse meu website oficial!</p>
 </div>
 
 <br/>
 
-<div align="center">
-	<a href="content/history.md">
-		<image width="30%" src="content/assets/images/buttons/pages/history-button.webp" />
-	</a>
-</div>
+> [!NOTE]  
+> Quando o *website* pessoal estiver pronto, ele será referenciado aqui!
 
 <!-- SEPARATOR -->
 <br/><br/>
@@ -105,120 +99,6 @@
 	<img width="90%" src="content/assets/images/separators/plant-separator.webp" />
 </div>
 <br/><br/>
-
-<!-- END_SEPARATOR -->
-
-<img align="left" width="52px" src="content/assets/images/icons/numbers/number-golden-4.webp"/>
-<h2>CARREIRA</h2>
-<div align="justify">
-	<p>Gostaria de ler informações detalhadas e atualizadas sobre minha carreira profissional na área de tecnologia? Clique no botão abaixo para ser redirecionado para a página de <b>CARREIRA</b> e obter mais informações.</p>
-</div>
-
-<br/>
-
-<div align="center">
-	<a href="content/career.md">
-		<image width="30%" src="content/assets/images/buttons/pages/career-button.webp" />
-	</a>
-</div>
-
-<!-- SEPARATOR -->
-<br/><br/>
-<div align="center">
-	<img width="90%" src="content/assets/images/separators/plant-separator.webp" />
-</div>
-<br/><br/>
-
-<!-- END_SEPARATOR -->
-
-<img align="left" width="52px" src="content/assets/images/icons/numbers/number-golden-5.webp"/>
-<h2>FORMAÇÕES</h2>
-<div align="justify">
-	<p>Gostaria de ver informações sobre minhas formações acadêmicas? Clique no botão abaixo para ser redirecionado para a página de <b>FORMAÇÕES ACADÊMICAS</b>.</p>
-</div>
-
-<br/>
-
-<div align="center">
-	<a href="content/technical-training.md">
-		<image width="30%" src="content/assets/images/buttons/pages/technical-training-button.webp" />
-	</a>
-</div>
-
-<!-- SEPARATOR -->
-<br/><br/>
-<div align="center">
-	<img width="90%" src="content/assets/images/separators/plant-separator.webp" />
-</div>
-<br/><br/>
-
-<!-- END_SEPARATOR -->
-
-<img align="left" width="52px" src="content/assets/images/icons/numbers/number-golden-6.webp"/>
-<h2>CONHECIMENTOS</h2>
-<div align="justify">
-	<p>Gostaria de ver informações atualizadas sobre todas as tecnologias de que tenho conhecimento? Clique no botão abaixo para ser redirecionado para a página de <b>CONHECIMENTOS</b>.<p>
-</div>
-
-<br/>
-
-<div align="center">
-	<a href="content/knowledge.md">
-		<image width="30%" src="content/assets/images/buttons/pages/knowledge-button.webp" />
-	</a>
-</div>
-
-<!-- SEPARATOR -->
-<br/><br/>
-<div align="center">
-	<img width="90%" src="content/assets/images/separators/plant-separator.webp" />
-</div>
-<br/><br/>
-
-<!-- END_SEPARATOR -->
-
-<img align="left" width="52px" src="content/assets/images/icons/numbers/number-golden-7.webp"/>
-<h2>PROJETOS</h2>
-<div align="justify">
-	<p>Gostaria de ver informações detalhadas de todos os projetos em que trabalhei? Clique no botão abaixo para ser redirecionado para a página de <b>PROJETOS</b>.</p>
-</div>
-
-<div align="center">
-	<a href="content/projects.md">
-		<image width="30%" src="content/assets/images/buttons/pages/projects-button.webp" />
-	</a>
-</div>
-
-<!-- SEPARATOR -->
-<br/><br/>
-<div align="center">
-	<img width="90%" src="content/assets/images/separators/plant-separator.webp" />
-</div>
-<br/><br/>
-
-<!-- END_SEPARATOR -->
-
-<img align="left" width="52px" src="content/assets/images/icons/numbers/number-golden-8.webp"/>
-<h2>CONQUISTAS</h2>
-<div align="justify">
-	<p>Gostaria de ver de forma divertida e interessante todas as minhas realizações e conquistas pessoais? Clique no botão abaixo para ser redirecionado para a página de <b>CONQUISTAS</b>.</p>
-</div>
-
-<br/>
-
-<div align="center">
-	<a href="content/achievements.md">
-		<image width="30%" src="content/assets/images/buttons/pages/achievements-button.webp" />
-	</a>
-</div>
-
-<!-- SEPARATOR -->
-<br/><br/>
-<div align="center">
-	<img width="90%" src="content/assets/images/separators/plant-separator.webp" />
-</div>
-<br/><br/>
-
 <!-- END_SEPARATOR -->
 
 <h1 align="center">CONCLUSÃO</h1>
