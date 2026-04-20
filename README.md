@@ -1,4 +1,4 @@
-![Starciad Banner](assets/images/banners/starciad-banner.webp)
+![Starciad Banner](images/starciad-banner.webp)
 
 Hello, I'm Davi Fernandes, also known as Starciad.
 
